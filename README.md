@@ -7,7 +7,7 @@ In order to play the game you need to place "pong.asm" file and "p.bat file" int
 
 `pong.exe`
 
-To move the left table up and down press "w" and "s". To move the right table press "i" and "k". To quit the game just hold "q".
+To move the left table up and down press "w" and "s". To move the right table press "i" and "k". To quit the game just hold "q". Player wins uppon scoring 5 points.
 
 Game screenshots:
 
