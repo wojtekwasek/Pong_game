@@ -1,5 +1,5 @@
 # MSDOS Pong game
-In order to play the game you need to place "pong.asm" file and "p.bat file" into the "C:\TASM" folder into DOS emulator and type "p" in the terminal. If something goes wrong you may also compile it manually:
+In order to play the game you need to place "pong.asm" file and "p.bat file" into the "C:\TASM" folder into DOS emulator and type "p" in the terminal. If something goes wrong or you don't want to put it in tasm folder you may also compile it manually:
 
 `tasm pong.asm ` 
 
@@ -7,7 +7,7 @@ In order to play the game you need to place "pong.asm" file and "p.bat file" int
 
 `pong.exe`
 
-To move the left table up and down press "w" and "s". To move the right table press "i" and "k". To quit the game just hold "q". Player wins uppon scoring 5 points.
+To move the left table up and down press "w" and "s". To move the right table press "i" and "k". To quit the game just hold "q". Player wins upon scoring 5 points.
 
 Game screenshots:
 
